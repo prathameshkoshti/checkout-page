@@ -1,0 +1,16 @@
+.selected-coupon {
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.selected-coupon > div {
+  display: flex;
+}
+
+.remove-coupon {
+  margin-left: 0.8rem;
+}
+
+.coupon-container {
+  border-bottom: 1px solid var(--gray);
+}

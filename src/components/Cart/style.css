@@ -1,0 +1,10 @@
+.cart {
+  flex: 1 0 500px;
+  border-right: 1px solid var(--gray);
+}
+
+@media screen and (max-width: 900px) {
+  .cart {
+    border-right: 0;
+  }
+}

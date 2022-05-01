@@ -1,0 +1,10 @@
+nav {
+  padding: 1.5rem 2rem;
+  font-size: 2rem;
+  color: var(--accent);
+  background-color: var(--primary);
+}
+
+.logo > span {
+  margin-left: 1rem;
+}
